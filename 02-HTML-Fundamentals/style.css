@@ -1,3 +1,13 @@
+h1, 
+h2,
+h3,
+h4,
+p,
+li {
+    font-family: sans-serif;
+}
+
+
 h1 {
     color: blue;
     font-size: 26px;
@@ -22,6 +32,7 @@ h4 {
     font-family: sans-serif;
     text-transform: uppercase;
     text-align: center;
+
     
 }
 
@@ -29,4 +40,12 @@ p {
     font-size: 22px;
     font-family: sans-serif;
     line-height: 1.5;
+}
+
+li {
+    font-size: 20px;
+}
+
+footer p {
+
 }
