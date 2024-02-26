@@ -46,10 +46,24 @@ li {
     font-size: 20px;
 }
 
+
+/*
+
 footer p {
 font-size: 16px;
 }
 
 header p {
     font-style: italic;
+}
+
+*/
+
+#author {
+    font-style: italic;
+    font-size: 18px;
+}
+
+#copyright{
+    font-size: 16px;
 }
