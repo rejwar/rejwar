@@ -5,6 +5,14 @@ h4,
 p,
 li {
     font-family: sans-serif;
+    color: #444;
+}
+
+
+h1,
+h2,
+h3 {
+    color: aqua;
 }
 
 
@@ -72,4 +80,24 @@ header p {
 .related-author {
     font-size:  18px;
     font-weight: bold;
+}
+
+/* ul {
+    list-style: none;
+}
+
+*/
+
+.related {
+    list-style: none;
+}
+
+
+header {
+    background-color: #f7f7f7;
+}
+
+aside {
+    background-color: #f7f7f7;
+    border: 5px solid #108910;
 }
