@@ -100,4 +100,8 @@ header {
 aside {
     background-color: #f7f7f7;
     border: 5px solid #108910;
+    border-top: 5px solid #1098ad;
+
+    border-left: #108910;
+    border-bottom: 5px solid #1098ad;
 }
