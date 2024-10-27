@@ -1,0 +1,139 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.6;
+}
+
+
+.navbar{
+    background-color: #fff;
+    padding: 1px 25px;
+    position: fixed;
+    border-bottom:1px solid gray ;
+    width: 100%;
+    top: 0;
+}
+.logo{
+    display: inline-block;
+}
+
+.logo a{
+    color: #333;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav-links{
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.nav-links li{
+display: inline-block;
+margin: 0px 20px ;
+list-style: none;
+}
+
+.nav-links a{
+    color: #667;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.nav-links a:hover,
+.nav-links a.active{
+    color: #839;
+}
+
+.cta-button{
+    float: right;
+    font-size: 20px;
+}
+
+.btn{
+    display: inline-block;
+    padding: 10px 20px ;
+    background-color: #6e716f;
+    color: #0e2cad;
+    text-decoration: none;
+    border-radius:5px;
+    tansition: background-color
+    0.3s;
+}
+.btn{
+    display: inline-block;
+    padding: 10px 20px ;
+    background-color: #c60b0b;
+    color: #e8760a;
+    text-decoration: none;
+    border-radius:5px;
+    tansition: background-color
+    0.3s;
+}
+
+.btn:hover{
+    background-color: #024ea0;
+}
+
+.hero{
+    background-color: #f8f8f8;
+    padding: 150px 50px 50px;
+    text-align:center
+}
+
+.hero-content{
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.hero h1 {
+    font-size: 48px;
+    color: #333;
+    margin-bottom: 20px;
+
+}
+
+.hero p{
+    font-size: 20px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.hero-button{
+    margin-top: 30px;
+}
+
+.btn.primary{
+    background-color: #007bff;
+    margin-right: 15px;
+}
+
+.btn.secondary{
+    background-color: greenyellow;
+    color: rgb(12, 65, 112);
+    border:1px solid #024ea0;
+}
+
+.btn.secondary:hover{
+    background-color: #007bff;
+
+}
+.hero-image{
+    margin-top: 40px;
+
+}
+
+.hero-image img{
+    max-width: auto;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 5px rgba(red, green, blue, alpha);
+
+}
