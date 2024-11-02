@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup and Login</title>
+    <link rel="stylesheet" href="style.css"/style.css>
+</head>
+<body>
+
+    <div class="container" id="signupContainer">
+        <h2>Signup</h2>
+        <form>
+            <div class="input-group">
+                <label for="signupUsername">Username</label>
+                <input type="text" id="signupUsername" required>
+            </div>
+            <div class="input-group">
+                <label for="signupEmail">Email</label>
+                <input type="email" id="signupEmail" required>
+            </div>
+            <div class="input-group">
+                <label for="signupPassword">Password</label>
+                <input type="password" id="signupPassword" required>
+            </div>
+            <button type="submit" class="button">Signup</button>
+            <p class="toggle-link" onclick="showLogin()">Already have an account? Login here</p>
+        </form>
+    </div>
+
+    <div class="container" id="loginContainer" style="display: none;">
+        <h2>Login</h2>
+        <form>
+            <div class="input-group">
+                <label for="loginUsername">Username</label>
+                <input type="text" id="loginUsername" required>
+            </div>
+            <div class="input-group">
+                <label for="loginPassword">Password</label>
+                <input type="password" id="loginPassword" required>
+            </div>
+            <button type="submit" class="button">Login</button>
+            <p class="toggle-link" onclick="showSignup()">Don’t have an account? Signup here</p>
+        </form>
+    </div>
+
+    <script>
+        function showSignup() {
+            document.getElementById('signupContainer').style.display = 'block';
+            document.getElementById('loginContainer').style.display = 'none';
+        }
+
+        function showLogin() {
+            document.getElementById('signupContainer').style.display = 'none';
+            document.getElementById('loginContainer').style.display = 'block';
+        }
+    </script>
+</body>
+</html>
