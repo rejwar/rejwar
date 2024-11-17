@@ -1,0 +1,175 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+.overview::after {
+    content: "";
+    position: absolute;
+    top: -30px;
+    right: -10px;
+    width: 200px;
+    height: 200px;
+    background: rgba(255, 243, 243, 0.15); 
+    border-radius: 50%;
+    pointer-events: none;
+}
+
+
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.boxs{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+    gap: 30px;
+
+}
+
+.overview {
+    background-color:#0bb8d699;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+}
+
+
+
+.box {
+    flex: 1;
+    background-color: rgb(73, 108, 224);
+    border-radius: 10px;
+
+}
+
+.box p {
+    margin: 0;
+}
+
+.box h2 {
+    margin: 5px 0 0;
+}
+.main-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.main-content h3 {
+    margin-bottom: 20px;
+    font-size: 1.3em;
+    color: #333;
+    width: 350px;
+}
+
+
+
+.transaction-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    align-items: center;
+    background-color: #f9fafc;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    gap: 15px;
+}
+.transaction-info {
+    display: flex;
+    gap: 15px; 
+}
+
+.transaction-item .status {
+    padding: 5px 10px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    color: white;
+}
+
+.status.active {
+    background-color: #4caf50;
+}
+
+.status.pending {
+    background-color: #ffc107;
+}
+
+.sidebar {
+    background-color: white;
+    padding: 20px;
+
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.sidebar .status{
+
+ color: #4b6d8899;
+
+margin-bottom: 20px;
+
+}
+.sidebar .menu {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+}
+
+
+.sidebar .menu a {
+    margin: 10px;
+    text-decoration: none;
+    color: #000000ad;
+    font-size: 1em;
+    padding-top: 10px;
+}
+
+.profile {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 800px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.profile-pic {
+    background-color: #ddd;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 10px;
+    font-size: 20px;
+    color: #555;
+}
+.snd{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    height: 100vh;
+    gap: 35px; 
+    
+
+}
