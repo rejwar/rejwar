@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+background-color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(9, 119, 119);
+    
+    font-size: 50px;
+}
+
+.btn-container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50% );
+}
+
+span{
+    display: block;
+    background-color: rgb(192, 83, 16);
+    padding: 15px 20px;
+
+}
+
+a::after, a::before{
+    content: '';
+    display: block;
+    position: absolute;
+    background-color: rgb(5, 15, 200);
+    transition: 0.2s;
+}
+
+a::before{
+    top: 0;
+    right: 0;
+    width: 0;
+    height: 2px;
+
+}
+
+a::after{
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+}
+
+a:hover::before{
+    width: 100%;
+}
+
+a:hover::after{
+    width: 100%;
+}
+
+
+span::before , span::after{
+    content: '';
+    display: block;
+    position: absolute;
+    background-color: rgb(5, 15, 200);
+    transition: 0.2s;
+    transition-delay: .2s;
+}
+
+span::before{
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 4px;
+}
+
+span::after{
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 0;
+}
+
+a:hover span::before{
+    height:100%;
+
+}
+
+a:hover span::after{
+    width: 100%;
+}
