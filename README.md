@@ -1,5 +1,3 @@
-https://api.githubtrends.io/user/svg/rejwar/langs?time_range=one_year&theme=dark
-
 
 ![](https://komarev.com/ghpvc/?username=rejwar&color=brightgreen)
 
