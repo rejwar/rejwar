@@ -11,3 +11,11 @@ body {
     font-weight: 4;
     color: #555;
 }
+
+.test {
+    width: 1000px;
+    background-color: red;
+    padding: 100px;
+    max-width: 1000px;
+
+}
