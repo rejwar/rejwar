@@ -1,8 +1,13 @@
 
 *{
     padding: 0;
+
     margin: 0;
     box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
 }
 
 body {
@@ -12,10 +17,46 @@ body {
     color: #555;
 }
 
-.test {
-    width: 1000px;
-    background-color: red;
-    padding: 100px;
-    max-width: 1000px;
+.section-hero {
+    background-color: #fdf2e9;
+    padding: 9.6rem 0;
+}
+
+
+
+.hero {
+    max-width: 130rem;
+    display: grid;
+    gap: 9.6rem;
+    grid-template-columns: 1fr;
+    background-color: rebeccapurple;
+
+}
+
+.heading-primary {
+    font-size: 6.2rem;
+    font-weight: 200px;
+    line-height: 1.1px;
+    color: #333;
+}
+
+.hero-description {
+    font-size: 2rem;
+    line-height: 1.6rem ;
+}
+
+
+.btn:link , btn:visited {
+background-color: #e67ee6;
+display: inline-block;
+font-size: 2rem;
+color: #fff;
+text-decoration: none;
+padding: 1.6rem 3.2rem ;
+border-radius: 150px;
+}
+
+.hero-img {
+    width: 100%;
 
 }
