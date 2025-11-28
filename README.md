@@ -17,7 +17,7 @@
 
 
 
-<!--Made by Rejwar    https://github.com/rejwar-->
+<!--Made by Md. Rejwar Rahman Rifat    https://github.com/rejwar-->
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejwar&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Commits (GMT +6.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rejwar&theme=dark&utcOffset=8)
 ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rejwar&theme=dark)
@@ -32,5 +32,5 @@
 
 
 
-<!--Made by Rejwar    https://github.com/rejwar-->
+<!--Made by  Md. Rejwar Rahman Rifat    https://github.com/rejwar-->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rejwar&bg_color=121212&color=f2f2f2&line=f9fbfb&point=56af0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
