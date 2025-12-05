@@ -1,6 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=rejwar&color=brightgreen)
 
+[![wakatime](https://wakatime.com/badge/user/018b75d5-bdbf-4b28-954d-7c590ade7f91.svg)](https://wakatime.com/@018b75d5-bdbf-4b28-954d-7c590ade7f91)
+[![GitHub followers](https://img.shields.io/github/followers/rejwar?label=Follow&style=social)](https://github.com/rejwar)
 
 
 [![Hits](https://u8views.com/api/v1/github/profiles/144032839/views/day-week-month-total-count.svg)](https://u8views.com/github/rejwar)
