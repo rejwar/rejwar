@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rejwar&color=brightgreen)
-
-[![wakatime](https://wakatime.com/badge/user/018b75d5-bdbf-4b28-954d-7c590ade7f91.svg)](https://wakatime.com/@018b75d5-bdbf-4b28-954d-7c590ade7f91)
+https://wakatime.com/badge/user/7bc3cfc8-7413-485c-8073-1c00ce70781d.svg
+[![wakatime](https://wakatime.com/badge/user/7bc3cfc8-7413-485c-8073-1c00ce70781d.svg)](https://wakatime.com/@7bc3cfc8-7413-485c-8073-1c00ce70781d)
 [![GitHub followers](https://img.shields.io/github/followers/rejwar?label=Follow&style=social)](https://github.com/rejwar)
 
 
