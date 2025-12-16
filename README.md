@@ -3,10 +3,9 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/7bc3cfc8-7413-485c-8073-1c00ce70781d.svg)](https://wakatime.com/@7bc3cfc8-7413-485c-8073-1c00ce70781d)
+[![GitHub followers](https://img.shields.io/github/followers/rejwar?label=Follow&style=social)](https://github.com/rejwar)
 
 [![committers.top badge](https://user-badge.committers.top/bangladesh_public/rejwar.svg)](https://user-badge.committers.top/bangladesh_public/rejwar)
-
-[![GitHub followers](https://img.shields.io/github/followers/rejwar?label=Follow&style=social)](https://github.com/rejwar)
 
 
 [![Hits](https://u8views.com/api/v1/github/profiles/144032839/views/day-week-month-total-count.svg)](https://u8views.com/github/rejwar)
