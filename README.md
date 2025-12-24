@@ -23,7 +23,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rejwar&theme=neon&hide_border=false)<br/>
 
 
-
+[![Wakatime stats](https://github-readme-stats-rejwar.vercel.app/api/wakatime?username=rejwar&layout=compact)](rejwar)
 
 <!--Made by Md. Rejwar Rahman Rifat    https://github.com/rejwar-->
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejwar&theme=dark&show_icons=true&hide_border=true&count_private=true)
@@ -41,4 +41,4 @@
 
 
 <!--Made by  Md. Rejwar Rahman Rifat    https://github.com/rejwar-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rejwar&bg_color=121212&color=f2f2f2&line=f9fbfb&point=56af0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rejwar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rejwar&bg_color=121212&color=f2f2f2&line=f9fbfb&point=56af0d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
