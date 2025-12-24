@@ -25,10 +25,11 @@
 
 
 <!--[![Wakatime stats](https://github-readme-stats-rejwar.vercel.app/api/wakatime?username=rejwar&layout=compact)](rejwar) -->
-[![Wakatime stats](https://github-readme-stats-yangszwei.vercel.app/api/wakatime?username=siweiyang&layout=compact)](siweiyang)
+<!--[![Wakatime stats](https://github-readme-stats-yangszwei.vercel.app/api/wakatime?username=siweiyang&layout=compact)](siweiyang) -->
 
 
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rejwar&layout=compact&theme=dark)](https://wakatime.com/@rejwar)
 
 
 
