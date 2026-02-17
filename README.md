@@ -12,6 +12,7 @@
 
 
  [![Hits](https://u8views.com/api/v1/github/profiles/144032839/views/day-week-month-total-count.svg)](https://u8views.com/github/rejwar) 
+ 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rejwar&show_icons=true&include_all_commits=true&langs_count=8&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER) 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rejwar&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
