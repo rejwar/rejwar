@@ -14,7 +14,7 @@
  [![Hits](https://u8views.com/api/v1/github/profiles/144032839/views/day-week-month-total-count.svg)](https://u8views.com/github/rejwar) 
 
 
- ### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats -->
 <p align="center">
   <img width="48%" src="https://leetcard.jacoblin.cool/rejwar?theme=dark" />
 </p>
