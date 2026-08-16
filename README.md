@@ -12,6 +12,12 @@
 
 
  [![Hits](https://u8views.com/api/v1/github/profiles/144032839/views/day-week-month-total-count.svg)](https://u8views.com/github/rejwar) 
+
+
+ ### 📊 GitHub Stats
+<p align="center">
+  <img width="48%" src="https://leetcard.jacoblin.cool/rejwar?theme=dark" />
+</p>
  
 <!--![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=rejwar&show_icons=true&include_all_commits=true&langs_count=8&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER)  -->
 
